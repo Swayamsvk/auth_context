@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://1234swayamsamyak:somumama@cluster0-eayno.mongodb.net/contact-keeper?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
